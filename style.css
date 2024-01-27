@@ -1,0 +1,87 @@
+.first {
+  height: 400px;
+  background-color: #66bfbf;
+}
+.cursive_font {
+  font-family: "Caveat", cursive;
+  font-family: "Sacramento", cursive;
+  font-size: 4rem;
+  text-align: center;
+  font-weight: bold;
+}
+.link {
+  font-weight: bold;
+  font-size: 1em;
+  color: white;
+}
+.name {
+  font-weight: bold;
+  color: white;
+  font-size: 4rem;
+  text-align: center;
+  padding-top: 100px;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+.pro {
+  text-decoration-line: underline;
+}
+.about {
+  height: 500px;
+  background-color: #e4f9f5;
+}
+.profile_photo {
+  height: 200px;
+  border-width: 1px;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-left: 45%;
+}
+.hello {
+  color: #66bfbf;
+}
+
+.intro {
+  display: block;
+
+  font-size: 20px;
+  text-align: center;
+  color: #66bfbf;
+}
+.project {
+  background-color: #66bfbf;
+  height: 700px;
+}
+.project_heading {
+  color: white;
+}
+.first_project {
+  display: flex;
+}
+
+#snap {
+  height: 200px;
+  padding-left: 30px;
+}
+#snap_2 {
+  height: 200px;
+  padding-right: 30px;
+}
+.description {
+  color: blanchedalmond;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.second_project {
+  display: flex;
+}
+
+.contact {
+  background-color: #e4f9f5;
+}
+.content {
+  text-align: center;
+  color: #66bfbf;
+}
